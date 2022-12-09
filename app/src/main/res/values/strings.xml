@@ -30,6 +30,7 @@
     <string name="tower_selection">Select Tower</string>
 
     <string-array name="towers">
+        <item>Select Tower</item>
         <item>Dart Monkey</item>
         <item>Boomerang Monkey</item>
         <item>Bomb Shooter</item>
